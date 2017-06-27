@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Spalla/AndroidStudioProjects/ThermaDrone/ThermaDrone/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/layout/log_dialog_view.xml",
+        "source": "/Users/Spalla/AndroidStudioProjects/ThermaDrone/ThermaDrone/dJISDKLIB/build/intermediates/bundles/debug/res/layout/log_dialog_view.xml"
+    },
+    {
+        "merged": "/Users/Spalla/AndroidStudioProjects/ThermaDrone/ThermaDrone/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/layout/dialog_login.xml",
+        "source": "/Users/Spalla/AndroidStudioProjects/ThermaDrone/ThermaDrone/dJISDKLIB/build/intermediates/bundles/debug/res/layout/dialog_login.xml"
+    }
+]
