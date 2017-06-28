@@ -1,7 +1,7 @@
 # ThermaDrone
+## What is this?
+  - ThermaDrone application enables you to automate your DJI Product. You can control flight, setting waypoints on the map and setting configuration to let your drone fly following a pre-imposted path, speed and altitude. //ADD
   - This simple **Android** application can be used with a user with ID from 1 to 7. The goal is to help people to control their everyday physical activity and to help on choosing better food. The user has the possibility to update the personal measure and to set some goals. Inside the tab n°4 ("Action!") of the application the user has the possibility to set a countdown that will suggest the time of daily workout
-  - Everytime that the user decide to workout, the application will help him with a random motivational image. Furthermore, the application give the possibility to press a button inside the app; After clicking on it 2 recipes will be given to the user, one for lunch and another one for dinner
-  - Feel complitely free to set your goals and to adjust your personal measures when you reach your goals!
  
 ## Architecture of the application
 
