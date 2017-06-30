@@ -20,5 +20,5 @@ After that you download or clone this project, you'll need to open it as "Existi
 If you are not using the ThermaDrone setup don't worry, you will be able to fly the drone even if the thermal setup is not connected to the drone.
 
 ## VIDEO
-Video where it's possible to see the all projectg in action!
-[![](https://img.youtube.com/vi/ifQu9xENR5M/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+Click on the image below if you want to see the all project in action!
+[![](https://img.youtube.com/vi/ifQu9xENR5M/0.jpg)](https://www.youtube.com/watch?v=ifQu9xENR5M)
