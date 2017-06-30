@@ -16,7 +16,7 @@ After that you download or clone this project, you'll need to open it as "Existi
   - After that, you can run the application (follow the **user's manual**) and everything should work perfectly.
 
 ## USER'S MANUAL
-[Here](https://github.com/AlessioSpallino/ThermaDrone/blob/master/ThermaDrone_Users_Manual.pdf) it is possible to download the User's manual. Follow all the steps in order to let you drone fly automatically.
+[Here](https://github.com/AlessioSpallino/ThermaDrone/blob/master/ThermaDrone_Users_Manual.pdf) it is possible to download the User's manual. Follow all the steps in order to let your drone fly automatically.
 If you are not using the ThermaDrone setup don't worry, you will be able to fly the drone even if the thermal setup is not connected to the drone.
 
 ## VIDEO
